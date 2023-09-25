@@ -2,7 +2,9 @@
 A versatile and user-friendly scientific calculator built with Python and tkinter as part of the CodeClause internship program.
 
 ![Calculator Screenshot]("C:\Users\HP\OneDrive\Desktop\niki\tkinter\calculator_screenshot.png")
+## Snapshots
 
+<img width="393" alt="calculator_screenshot1" src="https://github.com/NikitaBeeram/CodeClauseInternship_Calculator_in_Python/assets/108002991/ca8e18fa-bc76-42f3-995c-d040ba8ac019">
 ## Overview
 This scientific calculator project was developed as part of the CodeClause internship program. It aims to provide users with a flexible and easy-to-use tool for performing various mathematical calculations. Whether you're a student, scientist, engineer, or anyone in need of reliable mathematical computations, this calculator is designed to meet your requirements.
 
