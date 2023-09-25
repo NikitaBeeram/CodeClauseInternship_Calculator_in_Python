@@ -33,7 +33,7 @@ This scientific calculator project was developed as part of the CodeClause inter
 
 ## Prerequisites📋 
 
-- Python 3.x
+- Python3
 - tkinter library (usually included with Python installations)
 
 ## Thank you
