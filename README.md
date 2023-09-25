@@ -20,7 +20,7 @@ This scientific calculator project was developed as part of the CodeClause inter
 - Keyboard support for numeric input (⌨️)
 - Standard and scientific modes (🧪 📊)
 
-  ## 🎯 Key Objectives
+  ## Key Objectives🎯
 
 - **User-Friendly Interface:** The calculator features an intuitive and responsive graphical user interface (GUI) built with tkinter, making it accessible to users of all levels.
 
@@ -30,7 +30,7 @@ This scientific calculator project was developed as part of the CodeClause inter
 
 - **Versatility:** From basic addition to trigonometric functions, square roots, and more, this calculator covers a wide array of mathematical operations.
 
-## 📋 Prerequisites
+## Prerequisites📋 
 
 - Python 3.x
 - tkinter library (usually included with Python installations)
