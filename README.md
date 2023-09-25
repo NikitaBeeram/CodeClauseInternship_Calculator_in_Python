@@ -20,7 +20,7 @@ This scientific calculator project was developed as part of the CodeClause inter
 - Keyboard support for numeric input (⌨️)
 - Standard and scientific modes (🧪 📊)
 
-  ## Key Objectives🎯
+## Key Objectives🎯
 
 - **User-Friendly Interface:** The calculator features an intuitive and responsive graphical user interface (GUI) built with tkinter, making it accessible to users of all levels.
 
